@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8D6248D0-80EA-4570-B71F-2172D06108A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Azzida PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Azzida/README.md">
+    <Files>
+      <File FileName="Azzida/.gitignore" Line="1" Column="1" />
+      <File FileName="Azzida/README.md" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Azzida" expanded="True">
+            <Node name="Azzida" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
