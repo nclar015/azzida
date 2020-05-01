@@ -1,24 +1,28 @@
 ﻿<Properties StartupConfiguration="{8D6248D0-80EA-4570-B71F-2172D06108A4}|Default">
   <MonoDevelop.Ide.ItemProperties.Azzida PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Azzida/Controllers/WeatherForecastController.cs">
     <Files>
       <File FileName="Azzida/ClientApp/src/index.js" Line="15" Column="16" />
       <File FileName="Azzida/ClientApp/src/components/Home.js" Line="10" Column="38" />
-      <File FileName=".gitignore" Line="26" Column="4" />
+      <File FileName=".gitignore" Line="27" Column="9" />
+      <File FileName="Azzida/Controllers/WeatherForecastController.cs" Line="23" Column="30" />
+      <File FileName="Azzida/appsettings.json" Line="1" Column="1" />
+      <File FileName="Azzida/Properties/launchSettings.json" Line="21" Column="50" />
+      <File FileName="Azzida/Program.cs" Line="1" Column="1" />
+      <File FileName="Azzida/Startup.cs" Line="10" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Azzida" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/nclarke/azzida/project/Azzida/.gitignore" selected="True" />
-            </Node>
+            <Node name="Solution Items" expanded="True" />
             <Node name="Azzida" expanded="True">
-              <Node name="ClientApp" expanded="True">
-                <Node name="src" expanded="True">
-                  <Node name="components" expanded="True" />
-                </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
