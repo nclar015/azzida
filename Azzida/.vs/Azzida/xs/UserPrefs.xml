@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{8D6248D0-80EA-4570-B71F-2172D06108A4}|Default">
   <MonoDevelop.Ide.ItemProperties.Azzida PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Azzida/ClientApp/src/components/Home.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
       <File FileName="Azzida/ClientApp/src/index.js" Line="15" Column="16" />
-      <File FileName="Azzida/ClientApp/src/components/Home.js" Line="9" Column="25" />
+      <File FileName="Azzida/ClientApp/src/components/Home.js" Line="10" Column="38" />
+      <File FileName=".gitignore" Line="26" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Azzida" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/nclarke/azzida/project/Azzida/.gitignore" selected="True" />
+            </Node>
             <Node name="Azzida" expanded="True">
               <Node name="ClientApp" expanded="True">
                 <Node name="src" expanded="True">
-                  <Node name="components" expanded="True">
-                    <Node name="Home.js" selected="True" />
-                  </Node>
+                  <Node name="components" expanded="True" />
                 </Node>
               </Node>
             </Node>

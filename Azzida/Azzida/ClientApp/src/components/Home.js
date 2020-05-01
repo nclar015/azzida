@@ -7,7 +7,8 @@ export class Home extends Component {
     return (
       <div>
         <h1>Hi There!</h1>
-        <p>Welcome to Azzida:</p>
+            <p>Welcome to Azzida:</p>
+            <p>We plan to revolutionize the world of odd jobs</p>
         <ul>
           <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
           <li><a href='https://facebook.github.io/react/'>React</a> for client-side code</li>
