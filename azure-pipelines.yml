@@ -7,7 +7,7 @@
     WebAppName: 'azzida-qa'
     deployToSlotOrASE: true
     ResourceGroupName: 'allResources'
-    SlotName: 'production'
+    SlotName: 'azzida-qa'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
 # Build and test ASP.NET Core projects targeting the full .NET Framework.
 # Add steps that publish symbols, save build artifacts, and more:
