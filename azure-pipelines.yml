@@ -4,10 +4,10 @@
     ConnectionType: 'AzureRM'
     azureSubscription: 'Azure subscription 1 (ce21fc60-acbc-4424-967c-2058ba169d44)'
     appType: 'webApp'
-    WebAppName: 'azzida-qa'
+    WebAppName: 'azzida'
     deployToSlotOrASE: true
     ResourceGroupName: 'allResources'
-    SlotName: 'azzida-qa'
+    SlotName: 'azzida'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
 # Build and test ASP.NET Core projects targeting the full .NET Framework.
 # Add steps that publish symbols, save build artifacts, and more:
